@@ -7,3 +7,9 @@ I am also very busy only able to work on this one day out of the week. This will
 Projected alpha release date: Sunday, July 3rd, 2022. Please remember this can be sooner and later, this is just an estimate!
 Thank you all for your patience!
 */
+
+/*
+6/21/22:
+- Major changes and more fixes along with implementation of Multi-File system allowing for a smoother and less buggy enviornment for the end-user.
+- CMake Version now in development, made the change.
+*/
