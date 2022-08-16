@@ -13,3 +13,12 @@ Thank you all for your patience!
 - Major changes and more fixes along with implementation of Multi-File system allowing for a smoother and less buggy enviornment for the end-user.
 - CMake Version now in development, made the change.
 */
+
+/*
+8/15/22:
+- Major bug fixes
+- Added a title and started working on an Icon
+- Implemented file saving for later documentation and reviewing.
+- Added Ctime and fstream for various things
+
+*/
